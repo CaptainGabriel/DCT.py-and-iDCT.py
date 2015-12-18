@@ -21,6 +21,8 @@
  Dependencias:
 
      Numpy and PIL
+
+ @author Pedro Gabriel
 '''
 
 from PIL import Image, ImageDraw
